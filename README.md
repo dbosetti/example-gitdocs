@@ -2,6 +2,7 @@
 
 
 Repo di esempio
-(x) aggiungi doc pages
+(v) aggiungi doc pages
 (x) edit doc style
 
+Githup pages at [this link](https://dbosetti.github.io/example-gitdocs/)
